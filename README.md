@@ -11,3 +11,5 @@ A simple gun game with XP awards, streak speed boosts, and a customized UI. You'
 ## Devices Needed:
  - Audio Player Device
  - Vehicle Spawner (In this example I use the Sports Car Vehicle Spawner)
+
+[![Preview](https://img.youtube.com/vi/Y_hcKqJ5mgg/0.jpg)](https://www.youtube.com/watch?v=Y_hcKqJ5mgg)
