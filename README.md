@@ -24,5 +24,5 @@ A simple gun game with XP awards, streak speed boosts, and a customized UI. You'
 ![image](https://github.com/user-attachments/assets/7a0a5b32-d131-405c-aad2-295db886b2d6)
 
 Demonstration:
-[![Preview](https://img.youtube.com/vi/T_oGI6P82No?si=CrzTYAbnIJOgNIyo/0.jpg)](https://www.youtube.com/watch?v=T_oGI6P82No?si=CrzTYAbnIJOgNIyo)
+[![Preview](https://img.youtube.com/vi/T_oGI6P82No/0.jpg)](https://www.youtube.com/watch?v=T_oGI6P82No)
 
