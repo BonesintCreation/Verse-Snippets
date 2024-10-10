@@ -13,3 +13,17 @@ A simple gun game with XP awards, streak speed boosts, and a customized UI. You'
  - Vehicle Spawner (In this example I use the Sports Car Vehicle Spawner)
 
 [![Preview](https://img.youtube.com/vi/Y_hcKqJ5mgg/0.jpg)](https://www.youtube.com/watch?v=Y_hcKqJ5mgg)
+
+# Custom Bounce Animation For Custom Meshes
+
+## Devices Needed:
+ - BluePrint Prop of the mesh you wish to animate (Can Be Damaged must be checked)
+ - Prop Manipulator (Affect All Objects in A Zone must be checked and the zone must cover the BluePrint)
+  - Uncheck Is Prop Invunerable
+  - Check Modify Prop Health and Set the Prop Health value of your wish.
+![image](https://github.com/user-attachments/assets/7a0a5b32-d131-405c-aad2-295db886b2d6)
+
+Demonstration:
+
+
+
